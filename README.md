@@ -21,8 +21,17 @@ Terraform
 
 Monitoring
 
-💡 Why This Repository?
+💡 Why DevOps?
 
-This repository is a public journal of my DevOps learning journey. I'll share concepts, hands-on labs, mistakes, and lessons learned.
+Building software is easy.
+
+Delivering it reliably, repeatedly, and quickly is the real challenge.
+
+DevOps solves this challenge by bringing together development, operations, automation, and continuous improvement.
+
+I'm learning DevOps to understand how modern applications move from a developer's laptop to production environments used by millions of people.
+
+This repository is my journey from DevOps beginner to DevOps engineer.
+
 
 Follow my journey below.
