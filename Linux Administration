@@ -1,17 +1,13 @@
 🐧 Linux Administration
 
 Before jumping into Jenkins, Docker, and Kubernetes, I wanted to understand the operating system that powers most modern servers.
-
 Linux is the backbone of cloud computing, containers, and DevOps infrastructure.
-
 Most modern servers, cloud environments, containers, and DevOps tools run on Linux. Without understanding Linux, using DevOps tools often feels like memorizing commands without knowing what's happening behind the scenes
 
 Why Linux?
 Imagine managing hundreds of servers.
 Opening each server manually and performing tasks one by one would be slow, repetitive, and error-prone.
-
 Linux provides the control, flexibility, and automation needed to manage systems efficiently.
-
 Through Linux Administration, I learned how operating systems, users, permissions, processes, services, storage, and networking work behind the scenes.
 
 What I Learned
