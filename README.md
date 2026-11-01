@@ -20,4 +20,5 @@ I'm learning DevOps to understand how modern applications move from a developer'
 This repository is my journey from DevOps beginner to DevOps engineer.
 
 
-Follow my journey below.
+🤝 Connect With Me
+LinkedIn:
