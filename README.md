@@ -5,21 +5,7 @@ I'm currently learning DevOps from scratch and documenting everything I learn th
 
 📚 Learning Roadmap
 
-Linux Basics
-
-Git & GitHub
-
-Jenkins
-
-Docker
-
-Kubernetes
-
-AWS/Azure
-
-Terraform
-
-Monitoring
+Linux Basics | Git & GitHub | Jenkins | Docker | Kubernetes | AWS/Azure | Terraform | Monitoring
 
 💡 Why DevOps?
 
