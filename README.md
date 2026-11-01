@@ -22,6 +22,7 @@ Terraform
 Monitoring
 
 💡 Why This Repository?
+
 This repository is a public journal of my DevOps learning journey. I'll share concepts, hands-on labs, mistakes, and lessons learned.
 
 Follow my journey below.
