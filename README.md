@@ -4,13 +4,21 @@ Hi, I'm Bhawna.
 I'm currently learning DevOps from scratch and documenting everything I learn through hands-on practice.
 
 📚 Learning Roadmap
+
 Linux Basics
+
 Git & GitHub
+
 Jenkins
+
 Docker
+
 Kubernetes
+
 AWS/Azure
+
 Terraform
+
 Monitoring
 
 💡 Why This Repository?
